@@ -11,7 +11,9 @@
 ## 🛠️ Tech Stack
 
 ### 📋 Languages
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=fff)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP%20CAP-0FAAFF?style=flat-square&logoColor=white)
+![SAP RAP](https://img.shields.io/badge/SAP%20RAP-0FAAFF?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -31,6 +33,8 @@
 
 ### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ### 🖥️ Infrastructure & Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
